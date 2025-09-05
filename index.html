@@ -1,21 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PolyView</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <h1>PolyView</h1>
-    </header>
+  <header>
+    <h1>PolyView</h1>
+  </header>
 
-    <main>
-        <div id="container3D"></div>
-    </main>
-    
+  <main>
+    <div id="container3D"></div>
 
-    <script src="index.js"></script>
+    <!-- Music controls -->
+    <button id="start-btn" class="start-btn">Start Music</button>
+    <button id="stop-btn" class="stop-btn">Stop Music</button>
+  </main>
+
+  <!-- Background audio -->
+  <audio id="bgAudio" src="./sound/lamborghini-urus-racing-sound-effect-163336.mp3" preload="auto"></audio>
+
+  <script type="module" src="index.js"></script>
 </body>
 </html>

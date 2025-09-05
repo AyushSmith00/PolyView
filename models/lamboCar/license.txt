@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lambo
+* source:	https://sketchfab.com/3d-models/lambo-cc2478821c3d44c7b3c6ad760cef563a
+* author:	tortillas14 (https://sketchfab.com/tortillas14)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lambo" (https://sketchfab.com/3d-models/lambo-cc2478821c3d44c7b3c6ad760cef563a) by tortillas14 (https://sketchfab.com/tortillas14) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
